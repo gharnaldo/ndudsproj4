@@ -93,6 +93,7 @@ For new users with no interaction history, the system recommends:
 ```
 .
 ├── Recommendations_with_IBM.ipynb
+├── Recommendations_with_IBM.html
 ├── README.md
 ├── data/
 ```
